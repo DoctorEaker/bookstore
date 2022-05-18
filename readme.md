@@ -1,16 +1,16 @@
 # Despliuegue escalable y robusto
 
-##Proyecto 2 - Tópicos Especiales en Telemática
+## Proyecto 2 - Tópicos Especiales en Telemática
 
-###Análisis y Diseño
+### Análisis y Diseño
 
-####Equipo
+#### Equipo
 
 -   Luis Miguel Arroyave Quiñones - larroy13@eafit.edu.co
 -   Keneth Berrio Martinez - kberriom@eafit.edu.co
 -   Federico Rafael Jaramillo Franco - fjaram18@eafit.edu.co
 
-####Requisitos
+#### Requisitos
 
 1. Poner en marcha la versión ESCALABLE de la aplicación web en AWS Academy. Para esto,
    debe considerar los siguientes aspectos:
@@ -51,7 +51,9 @@
    c. Política de gestión de claves de usuario (passwords)
    d. Implementar Single Sign on (SSO), o auth0, gmail, e integrarlo a la aplicación.
 
-####Arquitectura
+#### Arquitectura
+![alt text](https://raw.githubusercontent.com/DoctorEaker/bookstore/main/images/arch.png)
+
 
 #### Presupuesto y estimación del costo inicial y mensual de la operación del sistema
  Como base se asumen los siguientes parámetros de uso del sistema 
